@@ -4,7 +4,7 @@
 ## Instance Services
 | Service Name                | Port                   |
 |-----------------------------| ---------------------- |
-| aries-guardianship          |                        |
+| aries-guardianship-agency   | 3010                   |
 | aries-key-guardian          |                        |
 | credential                  |                        |
 | demo-controller             |                        |
